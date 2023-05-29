@@ -1,0 +1,19 @@
+* {
+    font-family: 'Caveat', cursive;
+}
+
+.skills-container {
+    display: flex;
+  }
+  
+  .hard-skills,
+  .soft-skills {
+    flex-basis: 50%;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  
